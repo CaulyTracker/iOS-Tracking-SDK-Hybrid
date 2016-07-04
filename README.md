@@ -52,5 +52,5 @@ WebView 의 Load가 끝나는 시점에 JavaScript Interface 를 등록합니다
 ```
 
 #### Web 연동
-Hybrid 앱의 연동은 끝났으니, 웹페이지 연동은 아래 가이드에 따른다.
+Hybrid 앱의 연동은 끝났으니, 웹페이지 연동은 다음 가이드에 따릅니다.
 https://github.com/CaulyTracker/Retargeting
